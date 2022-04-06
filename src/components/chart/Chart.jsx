@@ -2,8 +2,8 @@ import "./chart.scss";
 
 // import { Container } from './styles';
 
-function Chart() {
-  return <div />;
+const Chart = () => {
+  return <div className="chart">Chart</div>;
 }
 
 export default Chart;
